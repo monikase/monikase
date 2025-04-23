@@ -10,11 +10,11 @@ Hi! I am Monika, Junior Data Analyst 📊 skilled in data collection and analysi
 • **Programming:** HTML, CSS, JavaScript  
 • **Currently Learning:** 🌱 Python  
 
-#### Computer Graphics Proficiency  
+#### Computer Graphics Proficiency:  
 • **2D & 3D Design:** 3DsMax, Corona, Autodesk AutoCAD, Revit  
 • **Graphic Editing:** Adobe Photoshop, Adobe Illustrator  
 
-#### AI Tools  
+#### AI Tools:  
 • **Generative AI & Assistants:** Copilot, Gemini, ChatGPT  
 • **Image Generation & Processing:** Stable Diffusion  
 
