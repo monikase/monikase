@@ -3,20 +3,20 @@
 Hi! I am Monika, Junior Data Analyst 📊 skilled in data collection and analysis. I excel at extracting insights and visualizing data to support business objectives. A proactive learner, I thrive in data-driven environments and seek to contribute meaningfully. 
 
 #### Technical Skills:
-• **Data Analytics:** SQL, BigQuery, Power BI, Excel, Google Sheets
-• **Data Processing:** Data Cleaning, Analysis, and Reporting
-• **Visualization & Insights:** Dashboards, Charts, Interactive Data Storytelling
-• **Problem-Solving & Critical Thinking:** Optimizing workflows, strategic decision-making
-• **Programming:** HTML, CSS, JavaScript
-• **Currently Learning:** 🌱 Python
+• **Data Analytics:** SQL, BigQuery, Power BI, Excel, Google Sheets  
+• **Data Processing:** Data Cleaning, Analysis, and Reporting  
+• **Visualization & Insights:** Dashboards, Charts, Interactive Data Storytelling  
+• **Problem-Solving & Critical Thinking:** Optimizing workflows, strategic decision-making  
+• **Programming:** HTML, CSS, JavaScript  
+• **Currently Learning:** 🌱 Python  
 
-#### Computer Graphics Proficiency
-• **2D & 3D Design:** 3DsMax, Corona, Autodesk AutoCAD, Revit
-• **Graphic Editing:** Adobe Photoshop, Adobe Illustrator
+#### Computer Graphics Proficiency  
+• **2D & 3D Design:** 3DsMax, Corona, Autodesk AutoCAD, Revit  
+• **Graphic Editing:** Adobe Photoshop, Adobe Illustrator  
 
-#### AI Tools
-• **Generative AI & Assistants:** Copilot, Gemini, ChatGPT
-• **Image Generation & Processing:** Stable Diffusion
+#### AI Tools  
+• **Generative AI & Assistants:** Copilot, Gemini, ChatGPT  
+• **Image Generation & Processing:** Stable Diffusion  
 
   
 <!--
