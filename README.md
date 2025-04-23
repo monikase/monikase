@@ -1,7 +1,10 @@
-## Welcome to My Data Analytics Portfolio 🙋
+### 🙋📊 About Me
 
+I am Monika, Junior Data Analyst skilled in data collection, cleaning, and analysis. I excel at extracting insights and visualizing data to support business objectives. A proactive learner, I thrive in data-driven environments and seek to contribute meaningfully. 
+
+<!--
 <img src="https://github.com/user-attachments/assets/8c6b8bf9-2f2e-4767-a9ad-119e1eea2e7b" alt="Alt Text" width="300" height="280">
-
+-->
 
 <!--
 **monikase/monikase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
