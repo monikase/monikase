@@ -1,6 +1,6 @@
 ## Welcome to My Data Analytics Portfolio 👋
 
-<img src="https://github.com/user-attachments/assets/8c6b8bf9-2f2e-4767-a9ad-119e1eea2e7b" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/8c6b8bf9-2f2e-4767-a9ad-119e1eea2e7b" alt="Alt Text" width="300" height="300">
 
 
 <!--
