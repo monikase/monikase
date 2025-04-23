@@ -1,7 +1,7 @@
 ### 🙋 About Me
 
+<img src="https://github.com/user-attachments/assets/319ace35-d8f7-4b38-8996-b58b20522e60" alt="Alt Text" width="900" height="260">
 
-<img src="https://github.com/user-attachments/assets/70987c39-08a5-4124-b5a7-08d194a095da" alt="Alt Text" width="900" height="280">
 </br>
 </br>
 Hi! I am Monika, Junior Data Analyst 📊 skilled in data collection and analysis. A proactive learner, I thrive in data-driven environments, visualizing data to support business objectives and seek to contribute meaningfully. 
@@ -24,7 +24,8 @@ Hi! I am Monika, Junior Data Analyst 📊 skilled in data collection and analysi
 
   
 <!--
-<img src="https://github.com/user-attachments/assets/8c6b8bf9-2f2e-4767-a9ad-119e1eea2e7b" alt="Alt Text" width="300" height="280">
+<img src="https://github.com/user-attachments/assets/319ace35-d8f7-4b38-8996-b58b20522e60" alt="Alt Text" width="300" height="280">
+<img src="https://github.com/user-attachments/assets/70987c39-08a5-4124-b5a7-08d194a095da" alt="Alt Text" width="900" height="280">
 -->
 
 <!--
