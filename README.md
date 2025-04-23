@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to My Data Analytics Portfolio 👋
+
+![image](https://github.com/user-attachments/assets/8c6b8bf9-2f2e-4767-a9ad-119e1eea2e7b)
+
+
 
 <!--
 **monikase/monikase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
