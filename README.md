@@ -3,6 +3,7 @@
 
 <img src="https://github.com/user-attachments/assets/70987c39-08a5-4124-b5a7-08d194a095da" alt="Alt Text" width="900" height="280">
 </br>
+</br>
 Hi! I am Monika, Junior Data Analyst 📊 skilled in data collection and analysis. I excel at extracting insights and visualizing data to support business objectives. A proactive learner, I thrive in data-driven environments and seek to contribute meaningfully. 
 
 #### Technical Skills:
