@@ -18,9 +18,6 @@ Hi! I am Monika, Junior Data Analyst 📊 skilled in data collection and analysi
 • **2D & 3D Design:** 3DsMax, Corona, Autodesk AutoCAD, Revit  
 • **Graphic Editing:** Adobe Photoshop, Adobe Illustrator  
 
-#### AI Tools:  
-• **Generative AI & Assistants:** Copilot, Gemini, ChatGPT  
-• **Image Generation & Processing:** Stable Diffusion  
 
   
 <!--
