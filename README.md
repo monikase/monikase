@@ -1,4 +1,5 @@
-### 🙋 About Me
+### ![image](https://github.com/user-attachments/assets/95ee0cf7-5d23-43dd-aecd-d77de8b53c19)
+About Me
 
 <!--
 <img src="https://github.com/user-attachments/assets/2d3444aa-037c-49fe-8d71-806283333160" alt="Alt Text" width="900" height="230">
