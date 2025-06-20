@@ -11,7 +11,7 @@ Hi! I am Monika, Junior Data Analyst 📊 skilled in data collection and analysi
 • **Data Processing:** Data Cleaning, Analysis, and Reporting  
 • **Visualization & Insights:** Dashboards, Charts, Interactive Data Storytelling  
 • **Problem-Solving & Critical Thinking:** Optimizing workflows, strategic decision-making  
-• **Web Development:** HTML, CSS 
+• **Web Development:** HTML, CSS, Javascript  
 • **Currently Learning:** 🌱 Python  
 
 #### Computer Graphics Proficiency:  
