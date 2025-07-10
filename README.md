@@ -13,6 +13,8 @@ This repository highlights my proficiency in:
 * **Data Visualization:** Communicating findings clearly and effectively.
 * **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, PowerBI.
 
+</br>
+
 Go on, have a peek --> [Portfolio](https://github.com/monikase/Monika-Portfolio)
   
 <!--
