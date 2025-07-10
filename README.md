@@ -6,7 +6,7 @@
 </br>-->
 Hi! I am Monika, Junior **Data Analyst**. Skilled in data collection and analysis. A proactive learner, visualizing data to support business objectives and seek to contribute meaningfully. 
 
-This repository highlights my proficiency in:
+This repository highlights my skills in:
 
 * **Data Cleaning & Preprocessing:** Ensuring data quality and readiness for analysis.
 * **Exploratory Data Analysis (EDA):** Uncovering patterns and trends through visualization and statistical methods.
