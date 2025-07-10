@@ -10,7 +10,7 @@ This repository highlights my proficiency in:
 
 * **Data Cleaning & Preprocessing:** Ensuring data quality and readiness for analysis.
 * **Exploratory Data Analysis (EDA):** Uncovering patterns and trends through visualization and statistical methods.
-* **Data Visualization:** Communicating complex findings clearly and effectively.
+* **Data Visualization:** Communicating findings clearly and effectively.
 * **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, PowerBI.
 
 Go on, have a peek --> [Portfolio](https://github.com/monikase/Monika-Portfolio)
