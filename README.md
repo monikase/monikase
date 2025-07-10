@@ -15,7 +15,7 @@ This repository highlights my skills in:
 
 </br>
 
-Go on, have a peek --> [Portfolio](https://github.com/monikase/Monika-Portfolio)
+Take a look --> [Portfolio](https://github.com/monikase/Monika-Portfolio)
   
 <!--
 <img src="https://github.com/user-attachments/assets/319ace35-d8f7-4b38-8996-b58b20522e60" alt="Alt Text" width="300" height="280">
