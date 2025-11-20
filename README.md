@@ -8,8 +8,8 @@
 
 #### Skills:
 
-* **Data Cleaning & Preprocessing:** Ensuring data quality and readiness for analysis.
-* **Exploratory Data Analysis (EDA):** Uncovering patterns and trends through visualization and statistical methods.
+* Data cleaning, exploratory analysis, visualization  
+* Product metrics & user-behaviour analysis
 * **Tools:** SQL, Python, Jupyter, PowerBI.
 
 #### Featured Projects:  
