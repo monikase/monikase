@@ -1,7 +1,5 @@
 ## 🙋 Hi, I am Monika
 
-Aspiring Data Analyst | SQL · Python · Product Analytics
-
 #### About Me
 
 - Transitioned into data analysis after a background in design & architecture  
@@ -14,9 +12,11 @@ Aspiring Data Analyst | SQL · Python · Product Analytics
 * **Exploratory Data Analysis (EDA):** Uncovering patterns and trends through visualization and statistical methods.
 * **Tools:** SQL, Python, Jupyter, PowerBI.
 
-</br>
+
 
 #### Featured Projects:  [Portfolio](https://github.com/monikase/Monika-Portfolio)
+
+</br>
 
 #### Currently Working On
 
