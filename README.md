@@ -10,7 +10,7 @@
 
 * Data cleaning, exploratory analysis, visualization  
 * Product metrics & user-behaviour analysis
-* **Tools:** SQL, Python, Jupyter, PowerBI.
+* SQL, Python, Jupyter, PowerBI.
 
 #### Featured Projects:  
 ### [Portfolio](https://github.com/monikase/Monika-Portfolio)
