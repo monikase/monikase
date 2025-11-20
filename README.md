@@ -3,8 +3,8 @@
 #### About Me
 
 - Transitioned into data analysis after a background in design & architecture  
-- Growing my expertise in improving product processes and user experience through analytics
-- Focused on building clean, actionable data insights  
+- Growing my expertise to improve product processes and user experience
+- Focused on creating clean, actionable data insights 
 
 #### Skills:
 
