@@ -12,9 +12,10 @@
 * **Exploratory Data Analysis (EDA):** Uncovering patterns and trends through visualization and statistical methods.
 * **Tools:** SQL, Python, Jupyter, PowerBI.
 
+</br>
 
-
-#### Featured Projects:  [Portfolio](https://github.com/monikase/Monika-Portfolio)
+#### Featured Projects:  
+### [Portfolio](https://github.com/monikase/Monika-Portfolio)
 
 </br>
 
