@@ -1,21 +1,23 @@
-### 🙋 About Me
+## 🙋 Hi, I am Monika
 
-<!--
-<img src="https://github.com/user-attachments/assets/2d3444aa-037c-49fe-8d71-806283333160" alt="Alt Text" width="900" height="230">
-</br>
-</br>-->
-Hi! I am Monika, Junior **Data Analyst**. Growing my expertise in product & business analysis.
+**Aspiring Data Analyst | SQL · Python · Product Analytics**
+
+### About Me
+
+- Transitioned into data analysis after a background in design & architecture  
+- Growing my expertise in improving product processes and user experience through analytics
+- Focused on building clean, actionable data insights  
 
 ### Skills:
 
 * **Data Cleaning & Preprocessing:** Ensuring data quality and readiness for analysis.
 * **Exploratory Data Analysis (EDA):** Uncovering patterns and trends through visualization and statistical methods.
-* **Data Visualization:** Communicating findings clearly and effectively.
-* **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, PowerBI.
+* **Tools:** SQL, Python, Jupyter, PowerBI.
 
 </br>
 
-Take a look --> [Portfolio](https://github.com/monikase/Monika-Portfolio)
+### Featured Projects:  [Portfolio](https://github.com/monikase/Monika-Portfolio)
+
   
 <!--
 <img src="https://github.com/user-attachments/assets/319ace35-d8f7-4b38-8996-b58b20522e60" alt="Alt Text" width="300" height="280">
