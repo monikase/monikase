@@ -4,9 +4,9 @@
 <img src="https://github.com/user-attachments/assets/2d3444aa-037c-49fe-8d71-806283333160" alt="Alt Text" width="900" height="230">
 </br>
 </br>-->
-Hi! I am Monika, Junior **Data Analyst**. Skilled in data collection and analysis. A proactive learner, visualizing data to support business objectives and seek to contribute meaningfully. 
+Hi! I am Monika, Junior **Data Analyst**. Growing my expertise in product & business analysis.
 
-This repository highlights my skills in:
+### Skills:
 
 * **Data Cleaning & Preprocessing:** Ensuring data quality and readiness for analysis.
 * **Exploratory Data Analysis (EDA):** Uncovering patterns and trends through visualization and statistical methods.
