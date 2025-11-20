@@ -17,7 +17,7 @@
 
 #### Currently Working On
 
-- Data Cleaning & Preparation for Small Business Tracking - collecting data to uncover hidden insights and optimize processes.
+- Data Cleaning & Preparation for Small Construction Business Tracking - collecting data to uncover hidden insights and optimize processes.
 - Advancing in Product Analytics - analyzing retention, user behavior, and experience to generate actionable insights and improve analysis outcomes.
   
 <!--
