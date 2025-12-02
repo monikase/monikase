@@ -2,7 +2,7 @@
 
 #### About Me
 
-- Growing expertise in improving product processes and user experience through analytics
+- Expertise in improving product processes and user experience through analytics
 - Focused on extracting actionable insights.
 
 #### Skills:
