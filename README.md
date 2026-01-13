@@ -12,7 +12,7 @@
 * SQL, Python, Jupyter, PowerBI.
 
 #### Featured Projects:  
-### [Portfolio](https://github.com/monikase/Monika-Portfolio)
+## [PORTFOLIO](https://github.com/monikase/Monika-Portfolio)
 
 #### Currently Working On
 
