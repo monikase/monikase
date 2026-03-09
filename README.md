@@ -1,8 +1,9 @@
 ## 🙋 Hi, I am Monika
 
-I’m developing my path in data analytics, working with SQL, Python, and analytical methods to turn raw data into clear and useful insights. I enjoy exploring datasets, identifying patterns, and investigating inconsistencies.
+I’m developing my path in data analytics, using SQL and Python to turn raw data into clear and useful insights.  
+Enjoy exploring datasets, finding patterns, and investigating.  
 
-My current work involves building and querying structured datasets, designing database models, validating data, and developing analytical workflows that help ensure reliable and well-organized data for analysis.
+My work focuses on building and querying structured datasets, validating data, and creating analytical workflows that support reliable analysis.
 
 ---
 
