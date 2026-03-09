@@ -5,6 +5,10 @@ Enjoy exploring datasets, finding patterns, and investigating.
 
 My work focuses on building and querying structured datasets, validating data, and creating analytical workflows that support reliable analysis.
 
+
+#### Featured Projects:  
+## [PORTFOLIO](https://github.com/monikase/Monika-Portfolio)
+
 ---
 
 #### Skills
@@ -17,9 +21,6 @@ My work focuses on building and querying structured datasets, validating data, a
 **Focus:** Data quality, analytical workflows, actionable insights
 
 ---
-
-#### Featured Projects:  
-## [PORTFOLIO](https://github.com/monikase/Monika-Portfolio)
 
 #### Currently Working On
 
