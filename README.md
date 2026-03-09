@@ -1,23 +1,44 @@
 ## 🙋 Hi, I am Monika
 
-#### About Me
+I’m developing my path in data analytics, working with SQL, Python, and analytical methods to turn raw data into clear and useful insights. I enjoy exploring datasets, identifying patterns, and investigating inconsistencies — treating data a bit like a detective puzzle where numbers tell a story.
 
-- Expertise in improving product processes and user experience through analytics
-- Focused on extracting actionable insights.
+My current work involves building and querying structured datasets, designing database models, validating data, and developing analytical workflows that help ensure reliable and well-organized data for analysis.
 
-#### Skills:
+---
 
-* Data cleaning, exploratory analysis, visualization  
-* Product metrics & user-behaviour analysis
-* SQL, Python, Jupyter, PowerBI.
+## Skills
+
+**Data Analysis**
+- Data cleaning & preprocessing
+- Exploratory Data Analysis (EDA)
+- Data validation & data quality checks
+- Data visualization
+- Statistical reasoning
+
+**Analytics**
+- Product metrics & user behaviour analysis
+- Cohort analysis
+- Retention analysis
+- Funnel analysis
+- RFM segmentation
+
+**Tools**
+- SQL
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Power BI
+- BigQuery
+
+---
 
 #### Featured Projects:  
 ## [PORTFOLIO](https://github.com/monikase/Monika-Portfolio)
 
 #### Currently Working On
 
-- Data Cleaning & Preparation for Business Tracking - collecting data to uncover hidden insights and optimize processes.
-- Advancing in Product Analytics - analyzing retention, user behavior.
+- Data pipelines and analytical workflows
+- Working with large datasets using SQL and BigQuery
+- AI fairness and ethics in machine learning.
 
 #### Studying
 
