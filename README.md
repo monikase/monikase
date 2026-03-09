@@ -6,7 +6,7 @@ My current work involves building and querying structured datasets, designing da
 
 ---
 
-## Skills
+#### Skills
 
 **Data Analysis:** Data cleaning, preprocessing, EDA, data validation, data visualization  
 **Analytics:** Product metrics, user behaviour analysis, cohort analysis, retention, funnels, RFM segmentation  
