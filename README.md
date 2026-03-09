@@ -7,9 +7,7 @@ My work focuses on building and querying structured datasets, validating data, a
 
 
 #### Featured Projects:  
-## [PORTFOLIO](https://github.com/monikase/Monika-Portfolio)
-
-#### Skills
+## [PORTFOLIO](https://github.com/monikase/Monika-Portfolio)  
 
 **Data Analysis:** Data cleaning, preprocessing, EDA, data validation, data visualization  
 **Analytics:** Product metrics, user behaviour analysis, cohort analysis, retention, funnels, RFM segmentation  
