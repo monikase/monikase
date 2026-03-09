@@ -42,7 +42,7 @@ My current work involves building and querying structured datasets, designing da
 
 #### Studying
 
-- [AI Ethics](https://www.turingcollege.com/ai-ethics)
+- [AI Ethics](https://github.com/monikase/AI_Ethics/tree/main/Fairness_Audit_Playbook)
 
 <!--
 <img src="https://github.com/user-attachments/assets/319ace35-d8f7-4b38-8996-b58b20522e60" alt="Alt Text" width="300" height="280">
