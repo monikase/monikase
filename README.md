@@ -1,4 +1,4 @@
-## 🙋 Hi, I am Monika
+## Hi, I am Monika 👋
 
 I’m developing my path in data analytics, using SQL and Python to turn raw data into clear and useful insights.  
 Enjoy exploring datasets, finding patterns, and investigating.  
