@@ -8,26 +8,12 @@ My current work involves building and querying structured datasets, designing da
 
 ## Skills
 
-**Data Analysis**
-- Data cleaning & preprocessing
-- Exploratory Data Analysis (EDA)
-- Data validation & data quality checks
-- Data visualization
-- Statistical reasoning
-
-**Analytics**
-- Product metrics & user behaviour analysis
-- Cohort analysis
-- Retention analysis
-- Funnel analysis
-- RFM segmentation
-
-**Tools**
-- SQL
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
-- Power BI
-- BigQuery
+**Data Analysis:** Data cleaning, preprocessing, EDA, data validation, data visualization  
+**Analytics:** Product metrics, user behaviour analysis, cohort analysis, retention, funnels, RFM segmentation  
+**Programming:** SQL, Python (Pandas, NumPy)  
+**Visualization:** Matplotlib, Seaborn, Power BI  
+**Tools:** Jupyter Notebook, BigQuery  
+**Focus:** Data quality, analytical workflows, actionable insights
 
 ---
 
